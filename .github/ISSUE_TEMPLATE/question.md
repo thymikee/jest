@@ -1,7 +1,10 @@
 ---
-name: 💬 Questions / Help
-label: ':speech_balloon: Question'
+name: "\U0001F4AC Questions / Help"
 about: If you have questions, please check our Discord or StackOverflow
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!-- Love Jest? Please consider supporting our collective: 👉  https://opencollective.com/jest/donate -->
