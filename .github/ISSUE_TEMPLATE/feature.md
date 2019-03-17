@@ -1,7 +1,10 @@
 ---
-name: 🚀 Feature Proposal
-labels: ':rocket: Feature Request'
+name: "\U0001F680 Feature Proposal"
 about: Submit a proposal for a new feature
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!-- Love Jest? Please consider supporting our collective: 👉  https://opencollective.com/jest/donate -->
